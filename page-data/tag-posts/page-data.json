@@ -1,1 +1,0 @@
-{"componentChunkName":"component---src-pages-tag-posts-js","path":"/tag-posts/","result":{"errors":[{"message":"Variable \"$targetTag\" of required type \"String!\" was not provided.","locations":[{"line":1,"column":67}]}],"pageContext":{}}}
